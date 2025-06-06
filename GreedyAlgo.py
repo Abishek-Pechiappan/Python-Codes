@@ -7,4 +7,3 @@ while amount > 0:
             print(coin, end=' ')
             amount -= coin
             break
-
