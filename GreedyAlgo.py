@@ -1,4 +1,3 @@
-#Greedy
 coins = [1, 50, 500, 20, 5, 2, 100, 200, 10]
 coins.sort()
 amount = int(input("Enter the amount : "))
